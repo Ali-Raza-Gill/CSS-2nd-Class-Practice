@@ -32,6 +32,6 @@ button:hover{
     color: blue;
 }
 
-input[type="checkbox"]+label{
+input:checked+label{
 color: darkgreen;
 }
